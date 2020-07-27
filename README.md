@@ -1,0 +1,2 @@
+# SumOfPositive
+JavaScript Codewars Exercise
